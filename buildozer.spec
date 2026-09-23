@@ -14,6 +14,7 @@ orientation = portrait
 fullscreen = 0
 
 android.permissions = WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
+android.build_tools_version = 34.0.0
 
 [buildozer]
 log_level = 2
